@@ -64,7 +64,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Live Link :
 
-### `npm run build` fails to minify
+> challenge 2 is hosted  on Heroku(https://vast-eyrie-17161.herokuapp.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Contribution Guidelines :two_men_holding_hands:
+1. Explain why you're making a change.
+2. Please consider the scope of your change.
+3. Please modify only one template per pull request.
+4. The more you can make me understand the change you're making, the more likely I'll be to accept your contribution quickly.
+
+# Bugs :bug:
+No known bugs.
+If you spot one, kindly email me @ rukundojanvier250@gmail.com
+# Author :computer:
+
+ [Janvier RUKUNDO](https://github.com/rukundorkay)
