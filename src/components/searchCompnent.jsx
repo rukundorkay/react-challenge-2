@@ -17,10 +17,12 @@ class Search extends Component {
     this.setState({isfirst: false});
     this.setState({isloading:true})
     fetch(
-      `https://jsonplaceholder.typicode.com/albums/${this.state.value}/photos`
+      `https://challenge3-backend.herokuapp.com/album/${this.state.value}`
+
     )
       .then((response) => response.json())
       .then((data) => {
+        console.log(data);
         this.setState({ character: data ,
         isloading:false});
       })
@@ -32,7 +34,7 @@ class Search extends Component {
       <div className="cardList">
         
         <form className="form-wrapper cf" onSubmit={this.handleSearch}>
-        <h1>Challenge two</h1>
+        <h1>Challenge Three </h1>
           <input
             type="number"
             placeholder="Search album here..."
